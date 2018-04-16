@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "avonpoc": {
+    "host": "ds047075.mlab.com",
+    "port": 47075,
+    "url": "mongodb://mohit:mohit@ds047075.mlab.com:47075/blog_dev",
+    "database": "blog_dev",
+    "password": "mohit",
+    "name": "avonpoc",
+    "user": "mohit",
+    "connector": "mongodb"
+  }
+}
